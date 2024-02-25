@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LabBeerAdviser</string>
+    <string name="find_beer">Buscar Cerveza!</string>
+    <string name="brands">No se han seleccionado cervezas</string>
+    <string-array name="beer_colors">
+        <item>ligth</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+
+</resources>
